@@ -233,8 +233,9 @@
                 <div class="absolute -inset-4 rounded-full border border-fairy-400/30 border-dashed animate-spin" style="animation-duration: 35s;"></div>
                 
                 <!-- Center Avatar Card -->
-                <div class="relative w-full h-full rounded-3xl glass-card overflow-hidden border border-fairy-300/30 flex flex-col justify-center items-center p-6 text-center shadow-2xl">
-                    <div class="w-32 h-32 md:w-40 md:h-40 rounded-full bg-gradient-to-b from-fairy-400 to-fairy-800 p-1 mb-4 shadow-inner relative">
+<img src"storage/emulated/O/Download/Bluetooth/
+
+IMG-20261102-WA0011.jpg" alt="Nada Awalliya Melati" class="w-full h-full object-cover">                    <div class="w-32 h-32 md:w-40 md:h-40 rounded-full bg-gradient-to-b from-fairy-400 to-fairy-800 p-1 mb-4 shadow-inner relative">
                         <div class="w-full h-full rounded-full bg-fairy-950 flex items-center justify-center text-fairy-300 text-5xl md:text-6xl overflow-hidden relative">
                             <!-- Fairy Icon Avatar Placeholder -->
                             <i class="fa-solid fa-wand-magic"></i>
